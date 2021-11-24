@@ -13,10 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('signup');
-});
 
-Route::get('/register', 'RegistrationController@create');
+Route::get('/', 'RegistrationController@create');
 Route::post('/done', 'RegistrationController@store');
 
