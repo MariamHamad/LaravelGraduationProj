@@ -4,10 +4,10 @@
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
 	
-	<link rel="stylesheet" href="{{ URL::secure_asset('all.min.css') }}" />
-	<link rel="stylesheet" href="{{ URL::secure_asset('swiper.min.css') }}" />
-	<link rel="stylesheet" href="{{ URL::secure_asset('framework.css') }}" />
-	<link rel="stylesheet" href="{{ URL::secure_asset('main.css') }}" />
+	<link rel="stylesheet" href="{{ URL::asset('all.min.css') }}" />
+	<link rel="stylesheet" href="{{ URL::asset('swiper.min.css') }}" />
+	<link rel="stylesheet" href="{{ URL::asset('framework.css') }}" />
+	<link rel="stylesheet" href="{{ URL::asset('main.css') }}" />
 
     
     
