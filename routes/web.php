@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('footer');
+    return view('signup');
 });
 
 Route::get('/register', 'RegistrationController@create');
