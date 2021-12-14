@@ -1,5 +1,6 @@
 <head>
 	<title></title>
+	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;900&display=swap" rel="stylesheet">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
